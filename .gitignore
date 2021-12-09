@@ -8,7 +8,6 @@
 .history/
 
 # JPEG
-*.jpg
 *.jpeg
 *.jpe
 *.jif
