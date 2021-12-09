@@ -12,7 +12,7 @@ namespace RabbitMQWatermark.Service.Concrete
    {
       private readonly RabbitMQClientService _clientManager;
       private IModel _channel;
-      private readonly ILogger<ImageWaterMarkProcessBackgroundManager> _logger;
+        private readonly ILogger<ImageWaterMarkProcessBackgroundManager> _logger;
 
       public ImageWaterMarkProcessBackgroundManager(RabbitMQClientService clientManager, ILogger<ImageWaterMarkProcessBackgroundManager> logger)
       {
