@@ -1,0 +1,12 @@
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\bin\Debug\net6.0\RabbitMQWatermark.Service.deps.json
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\bin\Debug\net6.0\RabbitMQWatermark.Service.dll
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\bin\Debug\net6.0\ref\RabbitMQWatermark.Service.dll
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\bin\Debug\net6.0\RabbitMQWatermark.Service.pdb
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.csproj.AssemblyReference.cache
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.AssemblyInfoInputs.cache
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.AssemblyInfo.cs
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.dll
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\ref\RabbitMQWatermark.Service.dll
+C:\Users\Sercan Sever\source\repos\WaterMarkRabbitMQ\RabbitMQWatermark.Service\obj\Debug\net6.0\RabbitMQWatermark.Service.pdb

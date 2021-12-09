@@ -1,0 +1,33 @@
+﻿@model List<Product>?
+@{
+    ViewData["Title"] = "Product Page";
+    Layout = "_Layout";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+ 
+<h2 class="d-flex justify-content-center">Products</h2>
+
+<table class="table table-hover table-sm table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Picture</th>
+        </tr>   
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+         <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>@product.Stock</td>
+            <td><img src="~/Images/WaterMark/@product.ImageName" alt="@product.Name Image" style="width:5rem;"></td>
+         </tr> 
+        }
+    </tbody>
+</table>
